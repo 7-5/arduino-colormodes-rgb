@@ -14,3 +14,5 @@ two buttons
 3x 330 Ohm resistor 
 4x 460 Ohm resistor (button tutorial told me i need a 10k Ohm resistor for each button but i didn't have any. if you build like i did, electronics too close to your breadboard will interfere with your input. it does on mine. anyways, buttons get 920 Ohms each.)
 1x RGB LED (anode led, runs in 5v)
+
+![[lawnmoving]](scheme.png)
